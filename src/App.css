@@ -1,0 +1,9 @@
+input{
+    width: 100%;
+}
+.first-row{
+    margin: 10px 5px; 
+}
+.button1{
+min-width: 80px;
+}
